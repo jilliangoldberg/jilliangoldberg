@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Jillian and I'm a student at UC Berkeley, majoring in [Electrical Engineering and Computer Science](https://eecs.berkeley.edu/) + [Business Administration](https://haas.berkeley.edu/). I'm a part of the [Management, Entrepreneurship, and Technology (M.E.T.)](https://met.berkeley.edu/) program, which is a cohort of 50 students each year in a collaborative, double-degree program.
+My name is Jillian and I'm a student at **UC Berkeley**, majoring in [Electrical Engineering and Computer Science](https://eecs.berkeley.edu/) + [Business Administration](https://haas.berkeley.edu/). I'm a part of the [Management, Entrepreneurship, and Technology (M.E.T.)](https://met.berkeley.edu/) program, which is a cohort of 50 students each year in a collaborative, double-degree program.
 
-I'm passionate about applying data science/ML to solve consumer-centric problems. I'm currently seeking opportunities in Data Science/ML for Fall 2022 and Spring 2023. Check out my [LinkedIn](https://www.linkedin.com/in/jilliangoldberg/) and feel free to reach out anytime! :)
+I’m passionate about **data science and machine learning**, and using technology to solve consumer-centric problems. I'm currently seeking opportunities in Data Science/ML for Fall 2022 and Spring 2023. Check out my **[LinkedIn]**(https://www.linkedin.com/in/jilliangoldberg/) and feel free to reach out anytime! :)
 
 <!--
 **jilliangoldberg/jilliangoldberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
