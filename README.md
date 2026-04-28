@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-My name is **Jillian** and I'm a software engineer at **Roblox**. I work on the Data Engineering and Tooling team. My passions lie in agentic workflows, developing scalable data systems, and continuously learning new skills. I live in San Francisco and enjoy singing, volleyball, pottery and have a bad habit of trying a new hobby every few months. 
+My name is Jillian and I'm a software engineer at **Roblox**. I work on the Data Engineering and Tooling team. My passions lie in agentic workflows, developing scalable data systems, and continuously learning new skills. I live in San Francisco and enjoy singing, volleyball, pottery and have a bad habit of trying a new hobby every few months. 
 
 Previously, I attended **UC Berkeley**, studying [Electrical Engineering and Computer Science](https://eecs.berkeley.edu/) and [Business Administration](https://haas.berkeley.edu/). I'm a part of the [Management, Entrepreneurship, and Technology (M.E.T.)](https://met.berkeley.edu/) program, which is a cohort of 50 students each year in a collaborative, double-degree program.
 
